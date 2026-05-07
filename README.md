@@ -105,6 +105,3 @@ Based on detected mood, Moodify recommends matching Spotify playlists.
 - ✅ Multi-Modal Emotion Detection
 - ✅ Real-Time Recommendation Engine
 
----
-
-└── .env
